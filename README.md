@@ -9,6 +9,10 @@ Super easy and crazy fast.
 - Simple and readable API
 - Unbelievable performance
 
+## Demo
+
+[DEMO](https://michaljach.github.io/micro-web-components/)
+
 ## Getting started
 
 #### Local development
