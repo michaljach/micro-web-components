@@ -1,4 +1,4 @@
-import { Component } from "/shared/component.js";
+import { Component } from "../../shared/component.js";
 
 class ButtonComponent extends Component {
   template() {
