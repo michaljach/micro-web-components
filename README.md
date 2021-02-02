@@ -15,15 +15,7 @@ Super easy and crazy fast.
 
 ## Getting started
 
-#### Local development
-
-1. Clone this repository
-2. `$ npm i serve`
-3. `$ serve`
-
-#### Production
-
-Just deploy or copy/paste files with no configuration and server needed.
+Run `index.html`
 
 ### Example component
 

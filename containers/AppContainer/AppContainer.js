@@ -1,6 +1,3 @@
-import { Component } from "../../shared/component.js";
-import "../../components/Button/ButtonComponent.js";
-
 class AppContainer extends Component {
   constructor() {
     super();
