@@ -22,8 +22,6 @@ Run `index.html`
 Reusable button component with styles.
 
 ```
-import { Component } from "/shared/component.js";
-
 class ButtonComponent extends Component {
   template() {
     return `
